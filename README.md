@@ -38,12 +38,14 @@ Then, in your package.json, add this line at the top level:
 This enables ES module support.
 
 Your updated package.json will look like this:
+```bash
 {  "type": "module",
   "dependencies": {
     "inquirer": "^12.9.0",
     "qr-image": "^3.2.0"
   },
   ....
+```
 
 ### ✅ Step 3: Run the Program
 
