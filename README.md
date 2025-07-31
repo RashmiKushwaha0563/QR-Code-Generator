@@ -1,4 +1,4 @@
-<h1 align="centre">🧾 QR Code Generator (Node.js CLI)</h1>
+<h1 align="center">🧾 QR Code Generator (Node.js CLI)</h1>
 
 This is a simple QR Code Generator built using Node.js. It prompts the user to enter a URL, then generates:
 - A QR image (`qr_img.png`) of the URL
