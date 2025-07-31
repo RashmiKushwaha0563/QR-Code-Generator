@@ -31,7 +31,9 @@ npm init -y
 ```
 
 Then, in your package.json, add this line at the top level:
+```bash
 "type": "module"
+```
 
 This enables ES module support.
 
