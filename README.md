@@ -19,12 +19,16 @@ Follow the steps below to set up and run the project:
 ### ✅ Step 1: Install Required Packages
 
 In your terminal, run:
+```bash
 npm i inquirer qr-image
+```
 
 ### ✅ Step 2: Initialize package.json
 
 In your terminal, run:
+```bash
 npm init -y
+```
 
 Then, in your package.json, add this line at the top level:
 "type": "module"
@@ -42,7 +46,9 @@ Your updated package.json will look like this:
 ### ✅ Step 3: Run the Program
 
 In your terminal, run:
+```bash
 node index.js
+```
 
 Enter any URL when prompted. The following files will be created:
 
